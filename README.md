@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thelonestander
-- 👀 I’m interested in learning hoe to code c++
+- 👀 I’m interested in learning how to code c++
 - 🌱 I’m currently learning all of it
 - 💞️ I’m looking to collaborate on Cataclysm BN
 - 📫 How to reach me discord #0270
